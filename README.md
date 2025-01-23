@@ -96,11 +96,5 @@ Contribuciones son bienvenidas. Para colaborar:
 
 ---
 
-## Licencia
-
-Este proyecto está licenciado bajo la [MIT License](LICENSE).
-
----
-
 Si necesitas más detalles sobre los flujos de trabajo o los resultados, consulta el documento principal o contáctame directamente.
 
